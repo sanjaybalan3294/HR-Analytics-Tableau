@@ -1,5 +1,6 @@
 # HR Analytics – Tableau
 
+
 ## 📊 Project Overview
 
 This project analyzes employee data using **Tableau** to identify workforce trends and generate business insights related to employee attrition, income, work-life balance, departments, gender, and promotion history.
